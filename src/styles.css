@@ -1,0 +1,23 @@
+.heading {
+    width: 100%;
+    background-color: #77d8d8;
+    color: 9b88b4;
+  }
+  
+  html,
+  body {
+    margin: 0;
+    height: 100%;
+  }
+  
+  .size-label {
+    display: inline-block;
+    padding: 2px;
+  }
+  
+  .intro-components {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
